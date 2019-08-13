@@ -1,4 +1,5 @@
-# my-saber-blog
+# ThonkDev.com
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fa0e42c2-96bd-4f2c-b771-9cd0569dc365/deploy-status)](https://app.netlify.com/sites/thonkdev/deploys)
 
 ## Scripts
 
