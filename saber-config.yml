@@ -1,0 +1,25 @@
+theme: minima
+
+siteConfig:
+  url: https://thonkdev.com
+  author: Thonk Dev
+  email: wblythe@thonkdev.com
+  title: Thonk Dev
+  description: Thonk Dev services coming soon.
+
+themeConfig:
+  nav:
+    - text: Home
+      link: /
+    - text: About
+      link: /about.html
+  social:
+    twitter: ThonkDev
+    github: willyb321
+    rss: true
+
+plugins:
+  - resolve: saber-plugin-query-posts
+  - resolve: saber-plugin-feed
+    options:
+      atomFeed: true
