@@ -8,6 +8,7 @@
     "saber": "latest",
     "saber-theme-minima": "latest",
     "saber-plugin-feed": "latest",
-    "saber-plugin-query-posts": "latest"
+    "saber-plugin-query-posts": "latest",
+    "saber-plugin-netlify-redirect": "latest"
   }
 }
